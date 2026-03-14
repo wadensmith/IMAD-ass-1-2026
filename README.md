@@ -3,7 +3,7 @@
 ## Author:
 - Student name: Waden Smith 
 - Student number: ST10479887
-- Git hub account:
+- Git hub account: https://github.com/wadensmith/IMAD-ass-1-2026.git
 
 ## About the app: 
 *Socializa* is a simple Android application designed to help users maintain social connections during busy days by suggesting small social interactions ("social sparks") based on the time of day.The application provides quick and meaningful suggestions that encourage users to connect with friends, family, or colleagues in a simple and engaging way. The project was developed using Kotlin in Android Studio and demonstrates the use of conditional logic (if statements), basic user interface components, and version control integration with Git and GitHub.
